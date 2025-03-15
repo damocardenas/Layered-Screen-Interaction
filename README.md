@@ -7,5 +7,5 @@ This is for CSU CS 465 - Multimodal Interaction
 [A video discussing code - DEAD LINK RIGHT NOW]()
 
 ## Links to Paper
-[Overleaf Paper - DEAD LINK RIGHT NOW]()
+[Overleaf Paper](https://www.overleaf.com/read/rsvhdbrjhdng#eb5175)
 
