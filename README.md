@@ -9,3 +9,8 @@ This is for CSU CS 465 - Multimodal Interaction
 ## Links to Paper
 [Overleaf Paper](https://www.overleaf.com/read/rsvhdbrjhdng#eb5175)
 
+# Checkpoint 2
+
+## Links to Videos
+[Video discussing the code]()
+
