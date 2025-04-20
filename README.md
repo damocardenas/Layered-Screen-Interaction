@@ -13,4 +13,4 @@ This is for CSU CS 465 - Multimodal Interaction
 
 ## Links to Videos
 [Video discussing the code](https://youtu.be/8j-qT11o1SM)
-
+[Progress+Contribution Video](https://www.youtube.com/watch?v=q53Gyw_RuVE)
