@@ -15,3 +15,13 @@ This is for CSU CS 465 - Multimodal Interaction
 [Video discussing the code](https://youtu.be/8j-qT11o1SM)
 
 [Progress+Contribution Video](https://www.youtube.com/watch?v=q53Gyw_RuVE)
+
+# Final Project
+
+## Links to Videos
+[Project Overview / Short Video](https://youtu.be/M6Zd7u0blbQ)
+
+[Video discussing the code]()
+
+[Presentation Video]()
+
