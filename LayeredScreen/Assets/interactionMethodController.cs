@@ -61,10 +61,10 @@ public class interactionMethodController : MonoBehaviour
         switch (currentInteractionMethod)
         {
             case 0:
-                int_method = "Buttons";
+                int_method = "Eye Tracking";
                 break;
             case 1:
-                int_method = "Eye Tracking";
+                int_method = "Buttons";
                 break;
             case 2:
                 int_method = "Hand Slider";

@@ -17,9 +17,9 @@ public class menu_guy : MonoBehaviour
         }
         else
         {
+            transform.parent.gameObject.GetComponent<screenOpacity>().set_enabled(gameObject);
             transform.GetChild(6).gameObject.SetActive(true);
             currently_enabled = true;
-            transform.parent.gameObject.GetComponent<screenOpacity>().set_enabled(gameObject);
         }
     }
 

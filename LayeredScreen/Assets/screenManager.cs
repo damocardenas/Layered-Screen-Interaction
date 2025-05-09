@@ -42,7 +42,9 @@ public class screenManager : MonoBehaviour
 
     public int get_swaps()
     {
-        return screen_swaps;
+        int temp = screen_swaps;
+        screen_swaps = 0;
+        return temp;
     }
 
     public void set_multi_screen()

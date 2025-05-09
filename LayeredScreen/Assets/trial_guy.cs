@@ -189,6 +189,7 @@ public class trial_guy : MonoBehaviour
 
     public void cont_trial() //Is the beginning of a trial
     {
+        scene_content.GetComponent<screenManager>().get_swaps();
         if (trial_counter > (interact_order.Length*2) - 1)
         {
 
