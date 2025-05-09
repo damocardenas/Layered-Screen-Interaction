@@ -21,7 +21,7 @@ This is for CSU CS 465 - Multimodal Interaction
 ## Links to Videos
 [Project Overview / Short Video](https://youtu.be/M6Zd7u0blbQ)
 
-[Video discussing the code]()
+[Video discussing the code](https://youtu.be/Wa7H811PT0s)
 
 [Presentation Video](https://www.youtube.com/watch?v=dvq9tnz7MM4)
 
